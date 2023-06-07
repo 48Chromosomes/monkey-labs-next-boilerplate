@@ -1,0 +1,5 @@
+{
+  "extends": "./node_modules/monkey-labs-config/tsconfig.json",
+  "include": ["./**/*.ts", "./**/*.tsx"],
+  "exclude": ["node_modules"]
+}
